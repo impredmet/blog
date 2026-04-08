@@ -1,7 +1,9 @@
 {
   "name": "blog",
-  "private": true,
   "version": "0.0.0",
+  "description": "Predmet's personal blog",
+  "author": "Predmet <predmet@onionmail.org>",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
