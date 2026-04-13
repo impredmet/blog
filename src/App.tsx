@@ -60,7 +60,7 @@ function App() {
       <img src="/pfp.jpg" alt="Predmet" className="pfp" />
       <h1>Predmet</h1>
 
-      <p>Software developer.</p>
+      <p>Software Engineer.</p>
 
       <h2>Contact</h2>
       <ul>
@@ -104,9 +104,8 @@ function App() {
           <a href="https://opnet.org" target="_blank" rel="noreferrer">
             OP_NET
           </a>{" "}
-          — A decentralized smart contract platform built on top of Bitcoin
-          using the OP_NET metaprotocol. Enables developers to deploy and
-          interact with smart contracts directly on the Bitcoin blockchain.
+          — A consensus layer on Bitcoin L1 that brings smart contracts to Bitcoin without sidechains, bridges, or Layer 2s.
+          Contracts are written in AssemblyScript, compiled to WebAssembly, and run deterministically by OP_NET nodes.
           Worked on the project until January 2026; mainnet launched March 2026.
         </li>
       </ul>
