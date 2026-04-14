@@ -69,12 +69,6 @@ function App() {
           <a href="mailto:predmet@onionmail.org">predmet@onionmail.org</a>
         </li>
         <li>
-          session:{" "}
-          <code>
-            0568783f7c84b804efc2e14ac4e94c9b1239b383866ffa28ded237fd88a902cf52
-          </code>
-        </li>
-        <li>
           twitter:{" "}
           <a href="https://x.com/impredmet" target="_blank" rel="noreferrer">
             @impredmet
