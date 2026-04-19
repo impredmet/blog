@@ -98,9 +98,11 @@ function App() {
           <a href="https://opnet.org" target="_blank" rel="noreferrer">
             OP_NET
           </a>{" "}
-          — A consensus layer on Bitcoin L1 that brings smart contracts to Bitcoin without sidechains, bridges, or Layer 2s.
-          Contracts are written in AssemblyScript, compiled to WebAssembly, and run deterministically by OP_NET nodes.
-          Worked on the project until January 2026; mainnet launched March 2026.
+          — A consensus layer on Bitcoin L1 that brings smart contracts to
+          Bitcoin without sidechains, bridges, or Layer 2s. Contracts are
+          written in AssemblyScript, compiled to WebAssembly, and run
+          deterministically by OP_NET nodes. Worked on the project until January
+          2026; mainnet launched March 2026.
         </li>
       </ul>
 
