@@ -65,10 +65,6 @@ function App() {
       <h2>Contact</h2>
       <ul>
         <li>
-          email:{" "}
-          <a href="mailto:predmet@onionmail.org">predmet@onionmail.org</a>
-        </li>
-        <li>
           twitter:{" "}
           <a href="https://x.com/impredmet" target="_blank" rel="noreferrer">
             @impredmet
