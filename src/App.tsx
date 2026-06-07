@@ -117,9 +117,9 @@ function App() {
         <li>
           <Link to="/writing/wrote-their-own-code">
             The Last People Who Wrote Their Own Code
-          </Link>{" "}
-          — how AI quietly turned developers from the authors of code into its
-          approvers.
+          </Link>
+          , on how AI turned developers into approvers of code they no longer
+          write.
         </li>
       </ul>
 
