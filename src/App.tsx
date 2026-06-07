@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const PGP_KEY = `-----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -91,6 +92,15 @@ function App() {
       <h2>Projects</h2>
       <ul>
         <li>
+          <a href="https://paylater.dev" target="_blank" rel="noreferrer">
+            PayLater
+          </a>{" "}
+          — Buy-now-pay-later for crypto. Frictionless USDT checkout where the
+          shopper pays within 30 days instead of up front, while the merchant
+          gets settled without carrying the credit risk themselves. Bringing the
+          familiar BNPL flow to stablecoins. Currently building it.
+        </li>
+        <li>
           <a href="https://opnet.org" target="_blank" rel="noreferrer">
             OP_NET
           </a>{" "}
@@ -102,9 +112,20 @@ function App() {
         </li>
       </ul>
 
+      <h2>Writing</h2>
+      <ul>
+        <li>
+          <Link to="/writing/wrote-their-own-code">
+            The Last People Who Wrote Their Own Code
+          </Link>{" "}
+          — how AI quietly turned developers from the authors of code into its
+          approvers.
+        </li>
+      </ul>
+
       <h2>Setup</h2>
       <ul>
-        <li>OS: Kali Linux (4+ years)</li>
+        <li>OS: Kali Linux (6+ years)</li>
       </ul>
 
       <hr />

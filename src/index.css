@@ -41,6 +41,20 @@ hr {
   margin: 20px 0;
 }
 
+.article .back {
+  margin-bottom: 20px;
+}
+
+.article .byline {
+  color: #888;
+  margin-top: -8px;
+  margin-bottom: 24px;
+}
+
+.article p {
+  margin: 0 0 16px;
+}
+
 pre {
   background: #1a1a1a;
   padding: 10px;
