@@ -101,6 +101,17 @@ function App() {
           familiar BNPL flow to stablecoins. Currently building it.
         </li>
         <li>
+          <a href="https://suture.cash" target="_blank" rel="noreferrer">
+            Suture
+          </a>{" "}
+          — Trustless atomic swaps between Monero (XMR) and Solana (SOL). A
+          cross-chain swap protocol that settles directly between wallets with
+          no custodian and no trusted intermediary — either both sides of the
+          swap complete or neither does. Bridging Monero's privacy with the
+          Solana ecosystem, without a centralized exchange in the middle.
+          Currently building it.
+        </li>
+        <li>
           <a href="https://opnet.org" target="_blank" rel="noreferrer">
             OP_NET
           </a>{" "}
